@@ -10,8 +10,9 @@ MERN Tech Stack:
 4. Node.js <br><br>
 Others:
 5. Postman API
-6. Clipdrop API
-7. Tailwind CSS
-8. HTML
-9. JavaScript
-10. Bcrypt
+6. REST API Architecture
+7. Clipdrop API
+8. Tailwind CSS
+9. HTML
+10. JavaScript
+11. Bcrypt
